@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="#">Arsany Zika</a></h2>
 
-<p>I'm a <strong>React Developer</strong> focused on building clean, high-performance, and user-friendly web applications. I love turning ideas into interactive reality using the latest web technologies.</p>
+<p>I'm a <strong>React Developer</strong> and a Computer Science student. I love building high-performance web applications and solving complex problems with code. My expertise ranges from web technologies to core programming fundamentals.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
@@ -13,22 +13,22 @@
 
 <h2>⚡️ Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently working on: <strong>React</strong> projects and building modern UIs.</li>
-  <li>🧐 Learning: Deep diving into <strong>React Ecosystem</strong> and Performance Optimization.</li>
+  <li>🔭 I’m currently working on: <strong>React</strong> projects and enhancing my C++ logic.</li>
+  <li>🧐 Learning: Advanced system design and React performance tuning.</li>
   <li>👨‍💻 Most of my projects are available right here on GitHub.</li>
-  <li>💬 Ask me about: <strong>React, JavaScript (ES6+), and Web Development</strong>.</li>
-  <li>🎉 Fun Fact: I believe clean code is a piece of art.</li>
+  <li>💬 Ask me about: <strong>React, JavaScript, and C++ basics</strong>.</li>
+  <li>🎉 Fun Fact: I enjoy blending the logic of code with the creativity of art.</li>
 </ul>
 
-<h2>🚀 Tech Stack</h2>
+<h2>🚀 Languages & Technologies</h2>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45" />
 </p>
-
 
