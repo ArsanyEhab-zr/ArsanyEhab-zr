@@ -3,8 +3,8 @@
 <p>I'm a <strong>React Developer</strong> and a Computer Science student. I love building high-performance web applications and solving complex problems with code. My expertise ranges from web technologies to core programming fundamentals.</p>
 
 <p>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/arsany-ehab-437183282/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="mailto:ArsanyEhab711@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white" alt="Email Badge"></a>
+  <a href="https://www.linkedin.com/in/arsany-ehab-437183282/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="mailto:arsanyehab711@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white" alt="Email Badge"></a>
 </p>
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
@@ -32,3 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45" />
 </p>
 
+
+<p align="center">
+  <img src="https://hits.dwyl.com/ArsanyEhab711/ArsanyEhab711.svg?style=flat-square" alt="HitCount">
+</p>
